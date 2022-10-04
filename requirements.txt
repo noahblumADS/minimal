@@ -1,0 +1,2 @@
+confuse==2.0.0
+cx-Freeze==6.11.1
